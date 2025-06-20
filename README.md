@@ -1,5 +1,13 @@
 # Ant Colony Optimization - Feature Selection
 
+<div style="display: flex; justify-content: center; align-items: center; gap: 40px;">
+  <img src="https://github.com/user-attachments/assets/e69d75b8-a8d9-468d-906d-4f5be0552c8f" width="300" />
+  <img src="https://github.com/user-attachments/assets/2e9235e2-1e02-477f-9cfc-b7c2f21e0fcb" width="300" />
+</div>
+
+<br>
+
+
 An iOS app that implements the Ant Colony Optimization (ACO) algorithm for feature selection with an interactive visual interface using SwiftUI. The app demonstrates how ants can intelligently select optimal feature subsets for machine learning tasks through pheromone-based optimization.
 
 ## 🎯 Project Description

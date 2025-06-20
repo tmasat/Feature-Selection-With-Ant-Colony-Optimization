@@ -1,6 +1,6 @@
 # Ant Colony Optimization - Feature Selection
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 40px;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 60px;">
   <img src="https://github.com/user-attachments/assets/e69d75b8-a8d9-468d-906d-4f5be0552c8f" width="300" />
   <img src="https://github.com/user-attachments/assets/2e9235e2-1e02-477f-9cfc-b7c2f21e0fcb" width="300" />
 </div>
@@ -33,35 +33,6 @@ This project visualizes the Ant Colony Optimization algorithm applied to feature
 - **Dark Mode UI**: Modern, responsive design with smooth animations
 - **Feature Generation**: Random generation of realistic feature sets with varying importance
 - **Fitness Evaluation**: Intelligent scoring based on feature importance and subset size
-
-## 🚀 Installation
-
-### Prerequisites
-
-- **Xcode 14.0+** (for iOS 16.0+)
-- **macOS 12.0+** (for Xcode development)
-- **iOS 16.0+** (target deployment)
-
-### Setup Instructions
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/AntColonyOptimization.git
-   cd AntColonyOptimization
-   ```
-
-2. **Open in Xcode**
-   ```bash
-   open AntColonyOptimization.xcodeproj
-   ```
-
-3. **Select target device**
-   - Choose your iOS device or simulator
-   - Ensure iOS 16.0+ is selected as deployment target
-
-4. **Build and run**
-   - Press `Cmd + R` or click the Run button
-   - The app will launch on your selected device/simulator
 
 ## 📱 Usage
 
